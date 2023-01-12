@@ -6,9 +6,30 @@ li {
     font-size: 30px;
     display:flex;
     margin: 40px;
+    margin-top: 10px;
 }
 
 ul {
-    margin-left: 38%;
-    margin-top: 10%;
+    margin-left: 5%;
+    /* margin-top: 10%; */
+    display:flex;
+}
+
+body {
+    background-color: lightgray;
+}
+
+img {
+    width: 80%;
+    height: auto;
+} 
+
+.caption {
+    width: 200%;
+    margin-left: 4%;
+    margin-right: 10%;
+}
+
+a {
+    text-decoration: none;
 }
